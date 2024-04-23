@@ -1,4 +1,4 @@
-# 🚀 Tellos Shopify App
+# 🚀 Tellos Shopify Apps
 
 Welcome to the Tellos Shopify App repository! This app injects the Tellos script into Shopify stores, enabling Tellos functionalities seamlessly.
 
