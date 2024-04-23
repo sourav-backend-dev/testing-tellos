@@ -1,5 +1,6 @@
 
-{{ '//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js' | script_tag }}
+{% comment %} {{ '//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js' | script_tag }} {% endcomment %}
+{{ 'jquery-min.js' |  asset_url |  script_tag}}
 <script>
 var SCRIPT_SAVE_API_BASE_URL = "https://jsframework.kaswebtechsolutions.com/";
 var settings = {
